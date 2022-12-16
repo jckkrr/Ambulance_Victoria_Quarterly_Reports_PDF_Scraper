@@ -1,4 +1,4 @@
-# Scrape-Ambulance-Victoria-Quarterly-Reports-Data-from-PDF
+# Ambulance Victoria Quarterly Reports PDF Scraper
 A script to improve accessibility of AV quarterly response times data.
 
 Ambulance Victoria publishes quarterly reports throught the year with various gauges of its response times. 
